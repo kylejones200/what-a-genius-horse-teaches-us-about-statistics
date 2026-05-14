@@ -36,4 +36,4 @@ Data analysts can be very powerful and there can be a temptation to find relatio
 
 Anyone can input values in Excel and produce a regression. It's super easy to do. But the computer can't think "does that make sense?" It's easy to say these things go together and then they're statistically significant. So obviously this is meaningful, and then you go off and make some decision. but you could be fooled like the people who were fooled by Clever Hans.
 
-[**Clever Hans - Wikipedia**\ *Clever Hans ( German: der Kluge Hans; c. 1895 - c. 1916) was a horse that appeared to perform arithmetic and other...*en.wikipedia.org](https://en.wikipedia.org/wiki/Clever_Hans "https://en.wikipedia.org/wiki/Clever_Hans")[](https://en.wikipedia.org/wiki/Clever_Hans)
+[Clever Hans - Wikipedia\ *Clever Hans ( German: der Kluge Hans; c. 1895 - c. 1916) was a horse that appeared to perform arithmetic and other...*en.wikipedia.org](https://en.wikipedia.org/wiki/Clever_Hans "https://en.wikipedia.org/wiki/Clever_Hans")[](https://en.wikipedia.org/wiki/Clever_Hans)

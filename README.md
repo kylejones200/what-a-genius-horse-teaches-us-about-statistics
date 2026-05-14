@@ -1,7 +1,7 @@
 # What a genius horse teaches us about statistics
 
-**Published:** 2024-12-20
-**Medium:** [https://medium.com/@kyle-t-jones/what-a-genius-horse-teaches-us-about-statistics-c4c0ba5f8380](https://medium.com/@kyle-t-jones/what-a-genius-horse-teaches-us-about-statistics-c4c0ba5f8380)
+Published: 2024-12-20
+Medium: [https://medium.com/@kyle-t-jones/what-a-genius-horse-teaches-us-about-statistics-c4c0ba5f8380](https://medium.com/@kyle-t-jones/what-a-genius-horse-teaches-us-about-statistics-c4c0ba5f8380)
 
 ## About
 
